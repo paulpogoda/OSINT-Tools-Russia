@@ -35,10 +35,10 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 ## Legal Entities
 
 ## Maps
-- [GIS JKH](https://dom.gosuslugi.ru/#!/houses). 
-- [Cadastral Map]()
+- [Public cadastral map of Russia](https://egrp365.ru/map/)
 - [OpenStreetMap Russian Community](http://openstreetmap.ru/#map=3/62/88)
 - [NextGIS Web](https://qms.nextgis.com)
+- [GIS Housing and utilities sector](https://dom.gosuslugi.ru/#!/houses). 
 
 ## Vehicles
 
