@@ -9,7 +9,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
  - [Legal Entities](#legal-entities)
  - [Cadastral Maps](#maps)
  - [Vehicles](#vehicles)
- - [Phones etc.](#phones)
+ - [People, phones, social etc.](#people)
  - [Public procurements](#public-procurement)
  - [WHOIS](#whois)
  - [Contributions](#contributions)
@@ -44,12 +44,12 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 ## Vehicles
 
-## Phones
+## People
 - [Eye of God](https://t.me/yfzxzxqwqbot) 
 - [Yellow Pages](https://yellowpages.akipress.org) 
 - [Getcontact](https://getcontact.com) work as well
-- Himera Search. Paid. Parsed Russian DB and leaks
-- Reveng.ee. Free. Parsed Russian DB
+- [Himera Search](https://himera-search.net). Paid. Parsed Russian DB and leaks
+- Reveng.ee. Free. Parsed Russian DB and some leaks
 
 ## Public procurement
 - [Public procurement portal]()
