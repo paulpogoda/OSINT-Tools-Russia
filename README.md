@@ -12,6 +12,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
  - [Phones etc.](#phones)
  - [Public procurements](#public-procurement)
  - [WHOIS](#whois)
+ - [Contributions](#contributions)
 
 ## Open Data portals
 ### Federal open data portals
@@ -57,3 +58,6 @@ The public procurement portal is a state information system that provides a sing
 
 ## WHOIS
 - [Domain Registration Service]
+
+## Contributions
+Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
