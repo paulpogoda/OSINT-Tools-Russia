@@ -40,7 +40,9 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Public cadastral map of Russia 2](https://egrp365.ru/map/)
 - [OpenStreetMap Russian Community](http://openstreetmap.ru/#map=3/62/88)
 - [NextGIS Web](https://qms.nextgis.com)
-- [GIS Housing and utilities sector](https://dom.gosuslugi.ru/#!/houses). 
+- [GIS Housing and utilities sector](https://dom.gosuslugi.ru/#!/houses)
+- [2GIS Reference](https://2gis.ru/)
+- [Yandex Maps](https://yandex.ru/maps/).
 
 ## Vehicles
 
