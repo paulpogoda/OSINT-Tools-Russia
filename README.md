@@ -47,11 +47,14 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 ## Vehicles
 
 ## People
-- [Eye of God](https://t.me/yfzxzxqwqbot) 
-- [Yellow Pages](https://yellowpages.akipress.org) 
+- []()
 - [Getcontact](https://getcontact.com) work as well
-- [Himera Search](https://himera-search.net). Paid. Parsed Russian DB and leaks
-- Reveng.ee. Free. Parsed Russian DB and some leaks
+- [Himera Search](https://himera-search.net). Paid. Parsed Russian DB and leaks. Brilliant
+- [Reveng.ee](Reveng.ee). Free. Parsed Russian DB and some leaks
+- [OSINT Industries]()
+  
+### Very Interesting People
+- [Public Database of Domestic Politically Exposed Persons of Russia, Belarus and Kazakhstan](https://rupep.org/en/). The RUPEP.org database helps financial institutions and other organisations identify risks associated with transactions involving politically exposed persons.
 
 ## Public procurement
 - [Public procurement portal]()
