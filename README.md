@@ -7,7 +7,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 ## Table of content:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
- - [Cadastral Maps](#maps)
+ - [Cadastral and other Maps](#maps)
  - [Vehicles](#vehicles)
  - [People, phones, social etc.](#people)
  - [Public procurements](#public-procurement)
