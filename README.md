@@ -1,10 +1,10 @@
 # OSINT-Tools-Russia
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Flag of RF" style="height: 320px; width:640px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Flag of RF"/>
 A list of OSINT tools that may be useful to you when conducting investigations related to Russian Federation. Most of tools has versions in Russian only, most of data avaliable in English. 
 
 **NB! Some resources require a root certificate to be installed. Not recommended. Use Yandex-browser instead, it already has certificates built in**
 
-## Table of content:
+## Table of contents:
  - [Open Data portals](#open-data-portals)
  - [Legal Entities](#legal-entities)
  - [Cadastral and other Maps](#maps)
