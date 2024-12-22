@@ -2,7 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Flag of RF"/>
 A list of OSINT tools that may be useful to you when conducting investigations related to Russian Federation. Most of tools has versions in Russian only, most of data avaliable in English. 
 
-**NB! Some resources require a root certificate to be installed. Not recommended. Use Yandex-browser instead, it already has certificates built in**
+**NB! Some resources require a root certificate to be installed. Not recommended. Use Yandex-browser instead, it already has certificates built in. Do not use this browser for other purposes**
 
 ## Table of contents:
  - [Open Data portals](#open-data-portals)
@@ -47,11 +47,11 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 ## Vehicles
 
 ## People
-- []()
-- [Getcontact](https://getcontact.com) work as well
+- [Getcontact](https://getcontact.com) on steroids
+- [Social Accounts Search in Russian by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). Work well for countries with Russian-speaking communities
 - [Himera Search](https://himera-search.net). Paid. Parsed Russian DB and leaks. Brilliant
 - [Reveng.ee](Reveng.ee). Free. Parsed Russian DB and some leaks
-- [OSINT Industries]()
+- [OSINT Industries](https://app.osint.industries). Free options for investigators
   
 ### Very Interesting People
 - [Public Database of Domestic Politically Exposed Persons of Russia, Belarus and Kazakhstan](https://rupep.org/en/). The RUPEP.org database helps financial institutions and other organisations identify risks associated with transactions involving politically exposed persons.
