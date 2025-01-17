@@ -65,4 +65,4 @@ The public procurement portal is a state information system that provides a sing
 - [Domain Registration Service]
 
 ## Contributions
-Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
