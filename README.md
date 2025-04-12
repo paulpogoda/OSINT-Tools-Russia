@@ -81,6 +81,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Reveng.ee](Reveng.ee). Free. Parsed Russian DB and some leaks
 - [Social Accounts Search in Russian by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). It works well for countries with Russian-speaking communities, too
 - [OSINT Industries](https://app.osint.industries). Free options for investigators
+- And don't forget about [OSINT CSE List](https://github.com/paulpogoda/OSINT-CSE)
   
 ### Very Interesting People
 - [Public Database of Domestic Politically Exposed Persons of Russia, Belarus and Kazakhstan](https://rupep.org/en/). The RUPEP.org database helps financial institutions and other organizations identify risks associated with transactions involving politically exposed persons.
