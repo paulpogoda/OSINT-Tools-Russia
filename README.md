@@ -74,7 +74,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Civil Aviation Register](https://russianplanes.net/ssearch)
 
 ## People
-- [VkHistoryRobot](https://t.me/VKHistoryRobo)
+- [VkHistoryRobot](https://t.me/VKHistoryRobot)
 - [Telegram OSINT Bot catalogue](https://t.me/AllOSINTrobot). Search for the actual bots with open data, leaks and personal data
 - [Getcontact](https://getcontact.com) work on steroids
 - [Himera Search](https://himera-search.net). Paid. Parsed Russian DB and leaks. Brilliant
