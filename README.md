@@ -33,20 +33,23 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Russian Open Data Hub](https://hubofdata.ru/dataset/). Open Data Hub is a catalog and repository of open data for all Russian-speaking users. Data from the government, NGOs and commercial companies are collected and published here
 - [Awesome Opendata Rus](https://github.com/infoculture/awesome-opendata-rus). Some sources are outdated or terminated
 - [Central Asia and EEU Statistics CSE by Pogoda](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0). CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, and the Eurasian Economic Union. Language: any, interface: Russian
+- **[Arctida Graph](https://stakeholders.arctida.io/en). Key Stakeholders of Russian Arctic Policy**
 
 ## Courts
 - [Official Website for Courts](https://sudrf.ru)
 - [Russian Court Documents Search](https://cse.google.com/cse?cx=174a936942534442e#gsc.tab=0). No filters by region; you will need the help of someone who understands the administrative division in Russia
-- [Russian Court Documents Search by Pogoda](https://cse.google.com/cse?cx=975065745f9cc405d#gsc.tab=0). Filters for High Court added
+- [Russian Court Documents Search by Pogoda](https://cse.google.com/cse?cx=975065745f9cc405d#gsc.tab=0). Filters added
 
 ## Stock
 - [Moscow Exchange](https://www.moex.com/en)
+- [Russia Stocks Live](https://www.investing.com/equities/russia)
 
 ## Legal Entities
 - [Official Search](https://egrul.nalog.ru/index.html)
 — [Taxpayer Search](https://pb.nalog.ru)
 - [T-Bank | Search for organizations and individuals](https://www.tbank.ru/business/contractor/)
 - [Spark](https://spark-interfax.ru). Paid but very good
+- [Checko](https://checko.ru/). Free and good
 - [List of Licence Registers](https://www.nalog.gov.ru/rn77/related_activities/registries/licence/)
 - [Scanner Project](https://munscanner.com/dbs/). Investigator search engine (great tool that helps to find information worldwide)
 
