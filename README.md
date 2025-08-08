@@ -81,7 +81,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Telegram OSINT Bot catalogue](https://t.me/AllOSINTrobot). Search for the actual bots with open data, leaks and personal data
 - [Getcontact](https://getcontact.com) work on steroids
 - [Himera Search](https://himera-search.net). Paid. Parsed Russian DB and leaks. Brilliant
-- [Reveng.ee](Reveng.ee). Free. Parsed Russian DB and some leaks
+- [Reveng.ee](Reveng.ee). Free for journalists (OSINTers). Parsed Russian DB and some leaks
 - [Social Accounts Search in Russian by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). It works well for countries with Russian-speaking communities, too
 - [OSINT Industries](https://app.osint.industries). Free options for investigators
 - And don't forget about [OSINT CSE List](https://github.com/paulpogoda/OSINT-CSE)
