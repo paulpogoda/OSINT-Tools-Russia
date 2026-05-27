@@ -72,6 +72,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 ### Maritime & River
 - [Russian River Register](https://rfclass.ru/activities/class/regbook/)
 - [Russian Maritime Register](https://lk.rs-class.org/regbook/regbookVessel?ln=ru)
+- [Phantom Tide](https://phantom.labs.jamessawyer.co.uk). Public monitoring map for restricted airspace, maritime activity and incidents
 
 ### Avia
 - [Civil Aviation Register](https://russianplanes.net/ssearch)
