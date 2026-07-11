@@ -99,4 +99,4 @@ The public procurement portal is a state information system that provides a sing
 - [Nic RU](https://www.nic.ru/whois/)
 
 ## Contributions
-Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
