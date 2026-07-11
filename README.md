@@ -49,7 +49,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 — [Taxpayer Search](https://pb.nalog.ru)
 - [T-Bank | Search for organizations and individuals](https://www.tbank.ru/business/contractor/)
 - [Spark](https://spark-interfax.ru). Paid but very good
-- [Checko](https://checko.ru/). Free and good
+- [Checko](https://checko.ru/). Free and very good, free API, [MCP](https://github.com/Nymaxxx/checko-mcp) | Could be unavailable without Russian IP-address
 - [List of Licence Registers](https://www.nalog.gov.ru/rn77/related_activities/registries/licence/)
 - [Scanner Project](https://munscanner.com/dbs/). Investigator search engine (great tool that helps to find information worldwide)
 
