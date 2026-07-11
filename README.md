@@ -1,5 +1,5 @@
 # OSINT-Tools-Russia
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Flag of RF"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Flag of RF"/>
 A list of OSINT tools that may be useful to you when conducting investigations related to the Russian Federation. Most tools have versions in Russian only, and part of the data is available in English. 
 
 
@@ -49,7 +49,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 — [Taxpayer Search](https://pb.nalog.ru)
 - [T-Bank | Search for organizations and individuals](https://www.tbank.ru/business/contractor/)
 - [Spark](https://spark-interfax.ru). Paid but very good
-- [Checko](https://checko.ru/). Free and good
+- [Checko](https://checko.ru/). Free and very good, free API, [MCP](https://github.com/Nymaxxx/checko-mcp) | Could be unavailable without Russian IP-address
 - [List of Licence Registers](https://www.nalog.gov.ru/rn77/related_activities/registries/licence/)
 - [Scanner Project](https://munscanner.com/dbs/). Investigator search engine (great tool that helps to find information worldwide)
 
@@ -85,7 +85,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [Reveng.ee](Reveng.ee). Free for journalists (OSINTers). Parsed Russian DB and some leaks
 - [Social Accounts Search in Russian by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). It works well for countries with Russian-speaking communities, too
 - [OSINT Industries](https://app.osint.industries). Free options for investigators
-- And don't forget about [OSINT CSE List](https://github.com/paulpogoda/OSINT-CSE)
+- And don't forget about [OSINT CSE List](https://github.com/Provereno-Media/OSINT-CSE)
   
 ### Very Interesting People
 - [Public Database of Domestic Politically Exposed Persons of Russia, Belarus and Kazakhstan](https://rupep.org/en/). The RUPEP.org database helps financial institutions and other organizations identify risks associated with transactions involving politically exposed persons.
@@ -99,4 +99,4 @@ The public procurement portal is a state information system that provides a sing
 - [Nic RU](https://www.nic.ru/whois/)
 
 ## Contributions
-Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
