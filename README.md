@@ -1,5 +1,5 @@
 # OSINT-Tools-Russia
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" alt="Flag of RF"/>
+<img src="https://en.wikipedia.org/wiki/Flag_of_Russia#/media/File:Flag_of_Russia.svg" alt="Flag of RF"/>
 A list of OSINT tools that may be useful to you when conducting investigations related to the Russian Federation. Most tools have versions in Russian only, and part of the data is available in English. 
 
 
