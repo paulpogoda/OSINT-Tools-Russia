@@ -50,6 +50,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [T-Bank | Search for organizations and individuals](https://www.tbank.ru/business/contractor/)
 - [Spark](https://spark-interfax.ru). Paid but very good
 - [Checko](https://checko.ru/). Free and very good, free API, [MCP](https://github.com/Nymaxxx/checko-mcp) | Could be unavailable without Russian IP-address
+- [OpenRegistry](https://openregistry.sophymarine.com). Live ЕГРЮЛ / ЕГРИП + ГИР БО records — search, officers and financials read from the official register at query time, exposed over MCP
 - [List of Licence Registers](https://www.nalog.gov.ru/rn77/related_activities/registries/licence/)
 - [Scanner Project](https://munscanner.com/dbs/). Investigator search engine (great tool that helps to find information worldwide)
 
