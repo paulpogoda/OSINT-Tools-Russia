@@ -2,6 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" alt="Flag of RF"/>
 A list of OSINT tools that may be useful to you when conducting investigations related to the Russian Federation. Most tools have versions in Russian only, and part of the data is available in English. 
 
+**Last Updated:** 2026-10-13
 
 **NB! Some resources require a root certificate to be installed. Not recommended. Use Yandex-browser instead, it already has certificates built in. Do not use this browser for other purposes**
 
@@ -53,6 +54,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 - [KontragentPro](https://kontragentpro.ru/). Free tier, [REST API](https://kontragentpro.ru/developers) and [MCP server](https://kontragentpro.ru/mcp). Financial statements from the state accounting database (GIR BO), bankruptcy records, trademarks and state inspection history in one card. Also publishes [open datasets](https://kontragentpro.ru/data) derived from the same registries (CC BY 4.0, with DOIs)
 - [List of Licence Registers](https://www.nalog.gov.ru/rn77/related_activities/registries/licence/)
 - [Scanner Project](https://munscanner.com/dbs/). Investigator search engine (great tool that helps to find information worldwide)
+- [Tesari First Resort](https://tesari.ai/) — Tesari is an all-source intelligence platform designed for high-stakes environments, with applications ranging from trade compliance and supply chain illumination to financial crime investigations and complex litigation. It is a paid platform that offers a Tech for Good (Community Impact) Programme for OSINT practitioners and journalists.
 
 ## Maps
 - [Public cadastral map of Russia 1](https://b.roscadastres.com/map)
