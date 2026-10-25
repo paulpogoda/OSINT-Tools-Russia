@@ -100,6 +100,7 @@ The public procurement portal is a state information system that provides a sing
 
 ## WHOIS
 - [Nic RU](https://www.nic.ru/whois/)
+- [NetAPI .ru domains](https://netapi.com/ru-domains/). All 6.2 million registered .ru domains as a list, updated daily, plus the domains added and deleted in the last 24 hours. The same for [.рф](https://netapi.com/xn--p1ai-domains/) and [.su](https://netapi.com/su-domains/)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
